@@ -37,6 +37,7 @@ class StressCanvasApp(App):
         label.text = '0'
         wid.canvas.clear()
 
+
     def build(self):
         wid = Widget()
 
